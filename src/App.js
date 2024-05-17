@@ -1,6 +1,5 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Business from "./Business";
 
 function App() {
   return (
@@ -10,8 +9,6 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload. What if I fail?
         </p>
-
-        <Business />
         <a
           className="App-link"
           href="https://reactjs.org"
